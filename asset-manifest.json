@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/notes_react/static/css/main.82bfff55.css",
-    "main.js": "/notes_react/static/js/main.449fd693.js",
-    "static/media/fa-solid-900.ttf": "/notes_react/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
-    "static/media/fa-brands-400.ttf": "/notes_react/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
-    "static/media/fa-solid-900.woff2": "/notes_react/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
-    "static/media/fa-brands-400.woff2": "/notes_react/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
-    "static/media/fa-regular-400.ttf": "/notes_react/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
-    "static/media/fa-regular-400.woff2": "/notes_react/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
-    "static/media/fa-v4compatibility.ttf": "/notes_react/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
-    "static/media/fa-v4compatibility.woff2": "/notes_react/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
-    "index.html": "/notes_react/index.html",
-    "main.82bfff55.css.map": "/notes_react/static/css/main.82bfff55.css.map",
-    "main.449fd693.js.map": "/notes_react/static/js/main.449fd693.js.map"
+    "main.css": "/note_react/static/css/main.1d3e8646.css",
+    "main.js": "/note_react/static/js/main.449fd693.js",
+    "static/media/fa-solid-900.ttf": "/note_react/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/note_react/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/note_react/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/note_react/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/note_react/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/note_react/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/note_react/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/note_react/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/note_react/index.html",
+    "main.1d3e8646.css.map": "/note_react/static/css/main.1d3e8646.css.map",
+    "main.449fd693.js.map": "/note_react/static/js/main.449fd693.js.map"
   },
   "entrypoints": [
-    "static/css/main.82bfff55.css",
+    "static/css/main.1d3e8646.css",
     "static/js/main.449fd693.js"
   ]
 }
